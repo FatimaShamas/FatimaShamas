@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Munazza Anwar
+# 👋 Hi, I'm Fatima Shamas
 
 🎓 **Computer Science Student | University of Management and Technology (UMT)**  
 💡 Student of BS Computer Science  
