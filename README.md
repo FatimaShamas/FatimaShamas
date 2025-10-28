@@ -1,21 +1,29 @@
-# Hey, greetings from Fatima Shams 👋
+# 👋 Hi, I'm Munazza Anwar
 
-## 🔭 I’m currently...
-- Pursuing a Bachelor's in Computer Science with a strong passion for coding and software development.
-- Focused on mastering C++ and eager to learn JavaScript, HTML, and CSS to excel in web development.
-- Committed to building a strong foundation in these languages to create innovative software solutions.
-- Excited about mastering new technologies to grow as a proficient developer.
+🎓 **Computer Science Student | University of Management and Technology (UMT)**  
+💡 Student of BS Computer Science  
 
-## 🌱 I’m currently learning...
-- *Languages*: C++, JavaScript, CSS, HTML
-- *Skills*: Problem Solving, Object-Oriented Programming, File Handling
+---
 
-## 📈 Grades
-- *A* grade in both Programming Fundamentals (PF) and Object-Oriented Programming (OOP).
+### 🚀 About Me
+I’m passionate about building interactive, user-friendly web applications and continuously exploring new technologies.  
+I enjoy learning, experimenting with code, and solving problems through creative logic.
 
-## 🤔 I’m looking for help with...
-- Seeking opportunities to gain real-world experience in my field.
-- Committed to applying my knowledge, learning from practical challenges, and making valuable contributions to further my professional development.
+- 💻 I have studied **Programming Fundamentals, Object-Oriented Programming (OOP), Data Structures & Algorithms, and Computer Networks.**
+- 🌱 I’m currently focusing on **Web Development** and learning:
+  - Frontend: **HTML, CSS, JavaScript, React.js**
+  - Backend: **Node.js, Express.js**
+- 🧩 I love working on projects that combine creativity and logic.
+- 🎯 My goal is to become a **Full-Stack Web Developer**.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Tools:**  
+`HTML` | `CSS` | `JavaScript` | `React.js` | `Node.js` | `Express.js` | `Git` | `GitHub`  
+
+---
 
 ## 📫 How to reach me:
 - *LinkedIn*: [Fatima Shams](https://www.linkedin.com/in/fatima-shamas)
